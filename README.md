@@ -1,4 +1,4 @@
-# FQ Extractor
+# CC Extractor
 Extracts the NES roms of each game in the Konami Collector's Series:# Castlevania & Contra PC CD-ROM.
 
 This script is a fork of HTV04's mmlc-dac extractor at https://github.com/HTV04/mmlc-dac-extractor
